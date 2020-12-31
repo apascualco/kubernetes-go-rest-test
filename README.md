@@ -1,1 +1,1 @@
-# kubernetes-go-rest-test
+# kubernetes-go-rest
